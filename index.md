@@ -1,38 +1,60 @@
-William Gay
-wag110894@gmail.com
-https://omega.uta.edu/~wag9927/portfolio/home.html
+<html lang="en">
+<title>Portfolio</title>
 
-817-988-0039
-EDUCATION
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+    <link rel="stylesheet" type="text/css" href="portfolio.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/formiojs@latest/dist/formio.full.min.css">
+    <script src="https://unpkg.com/formiojs@latest/dist/formio.full.min.js"></script>
+</head>
 
-University of Texas at Arlington, Arlington, TX
-Bachelor of Arts in Communication Technology
-SKILLS/CERTIFICATIONS
 
-CODING BASED SKILLS
-●	Proficient: HTML, CSS
-●	Basic: PHP, JavaScript, DHTML
-o	Developed a multifaceted 5-page website in a team environment focusing on PHP function
-SOFTWARE BASED SKILLS
-●	W
-●	Proficient: GitHub
-●	Proficient: Multiple Creative Suite Adobe applications (Photoshop, Illustrator, InDesign, Premiere Pro, After Effects)
-●	Developing Knowledge: WordPress, Drupal 8 
-EXPERIENCE
+<body>
+    <div class="nav">
+        <nav>
+            <ul>
+                <li><a href="home.html">Home </a></li>
+                <li><a href="portfolio.html"> Portfolio </a> </li>
+            </ul>
+        </nav>
+        <br><br>
+    </div>
+    <main>
 
-Developer Support 								May 2018- Current
-Form.io, Dallas, TX
-●	C
-Customer Service Intern						          	             October 2017- January 2018
-LSP Products (Division of NCH Corp.), Irving, TX
-●	Participated and provided support for the LSP Pricing Project.  
-●	Created, modified, and deleted contact information for over 750 customers in the Salesforce database. 
-●	Contacted over 200 customers directly via phone to acquire contact information.
-●	Maintained and modified Excel spreadsheets used as backup for customer information.
-●	Sent customized email templates to customers about upcoming changes in pricing.
-●	Project was nominated and won the Pursuit of Excellence Award as the most impactful project of the quarter. 
+        <div class="title">
+            <h1>Portfolio</h1>
+            <p>Below is some of the knowledge that I have learned throughout my time at UT Arlington.
+                <br><br>
+                <h2>HTML and CSS Knowledge</h2>
+                Here are some of the HTML and CSS knowledge that I have learned so far:
+                <div> <img src="https://omega.uta.edu/~wag9927/portfolio/waynes.png" height="500px" width="750px">
+                </div>
+                <br><br><br><br>
+                <img src="https://omega.uta.edu/~wag9927/portfolio/aaf.png" height="500px" width="750px">
+        </div><br><br><br><br><br>
+        <p> This is a video based on a website I created a few years ago for a imaginary coffee stop called Java Jam. The logo was also created by me using Adobe Creative Suite.
+            <br><br><br>
+            <source src="https://omega.uta.edu/~wag9927/portfolio/Javajam.mov ">
+            <video preload="auto" width=" 640" height="360" controls poster="https://omega.uta.edu/~wag9927/Gay-Website2/logo.png">
+                <source src="https://omega.uta.edu/~wag9927/portfolio/Javajam.mov "></video>
 
-Seasonal Food Vendor 	 	 	 	 	 	                                      May 2012- September 2018 
-Delaware North Sport Service, Arlington, TX 
-●	Operate as an independent salesperson which required handling of monies and reconciliation at the end of each shift.
-●	Received award for 5 years of continual service
+            <div>
+                <br><br><br><br><br><br><br><br>
+                <h2>Editing Audio and Video Knowledge</h2>
+                <div>
+                    <p> This is a video that I created in my Multimedia Production class. For this project, we had to make a video that included using B-roll and Interviews that were provided. I take alot of pride in making this video and I think I did well on it. </p>
+                    <br><br><br>
+                    <source src="https://omega.uta.edu/~wag9927/portfolio/CampImpactwg.mp4">
+                    <video preload="auto" width=" 640" height="360" controls poster="http://omega.uta.edu/~wag9927/portfolio/logo.png">
+                        <source src="https://omega.uta.edu/~wag9927/portfolio/CampImpactwg.mp4"></video>
+                </div><br><br><br>
+                <source src="https://omega.uta.edu/~wag9927/portfolio/Gaywash.mp4"><video preload="auto" width=" 640" height="360" controls>
+                    <source src="https://omega.uta.edu/~wag9927/portfolio/Gaywash.mp4">
+                </video>
+            </div>
+    </main>
+</body>
+
+</html>
+
