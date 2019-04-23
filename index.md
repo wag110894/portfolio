@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+William Gay
+wag110894@gmail.com
+https://omega.uta.edu/~wag9927/portfolio/home.html
 
-You can use the [editor on GitHub](https://github.com/wag110894/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+817-988-0039
+EDUCATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+University of Texas at Arlington, Arlington, TX
+Bachelor of Arts in Communication Technology
+SKILLS/CERTIFICATIONS
 
-### Markdown
+CODING BASED SKILLS
+●	Proficient: HTML, CSS
+●	Basic: PHP, JavaScript, DHTML
+o	Developed a multifaceted 5-page website in a team environment focusing on PHP function
+SOFTWARE BASED SKILLS
+●	W
+●	Proficient: GitHub
+●	Proficient: Multiple Creative Suite Adobe applications (Photoshop, Illustrator, InDesign, Premiere Pro, After Effects)
+●	Developing Knowledge: WordPress, Drupal 8 
+EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Developer Support 								May 2018- Current
+Form.io, Dallas, TX
+●	C
+Customer Service Intern						          	             October 2017- January 2018
+LSP Products (Division of NCH Corp.), Irving, TX
+●	Participated and provided support for the LSP Pricing Project.  
+●	Created, modified, and deleted contact information for over 750 customers in the Salesforce database. 
+●	Contacted over 200 customers directly via phone to acquire contact information.
+●	Maintained and modified Excel spreadsheets used as backup for customer information.
+●	Sent customized email templates to customers about upcoming changes in pricing.
+●	Project was nominated and won the Pursuit of Excellence Award as the most impactful project of the quarter. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wag110894/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Seasonal Food Vendor 	 	 	 	 	 	                                      May 2012- September 2018 
+Delaware North Sport Service, Arlington, TX 
+●	Operate as an independent salesperson which required handling of monies and reconciliation at the end of each shift.
+●	Received award for 5 years of continual service
